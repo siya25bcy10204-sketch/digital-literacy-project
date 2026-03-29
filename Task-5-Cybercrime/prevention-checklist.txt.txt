@@ -1,0 +1,13 @@
+﻿Prevention Checklist (Stay Safe Online)
+* Always check the website URL before entering login details.
+* Never share OTP or passwords with anyone.
+* Use strong and unique passwords.
+* Enable two-factor authentication.
+* Avoid clicking suspicious email links.
+* Verify unknown messages before responding.
+* Use secure networks while making online payments.
+* Regularly update antivirus software.
+UPI Safety
+* Always verify the receiver's UPI ID before payment.
+* Never approve unknown payment requests.
+Report cybercrime at cybercrime.gov.in or call 1930.
