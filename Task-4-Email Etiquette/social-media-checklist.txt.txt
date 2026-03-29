@@ -1,0 +1,16 @@
+﻿TASK-4
+
+
+# Social Media Do's and Don'ts Checklist
+## Do's
+*  Think before posting anything online.
+*  Use respectful and polite language while communicating.
+*  Protect your personal information and privacy.
+*  Verify information before sharing it.
+*  Use strong passwords and enable two-factor authentication.
+* ## Don'ts
+*  Do not share fake news or unverified information.
+*  Do not post offensive or abusive comments.
+*  Do not share personal or confidential information publicly.
+*  Do not engage in cyberbullying or online harassment.
+*  Do not click suspicious links from unknown sources.
