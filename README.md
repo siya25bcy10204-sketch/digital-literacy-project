@@ -21,18 +21,22 @@ Module 1
 
 – Hands On Training On Presentation Software
 In this module, We learned how to use presentation tools to create visually appealing slides and infographics. Tools like Canva and presentation software help students explain ideas clearly using images, icons, and structured information. This module helped me understand how digital presentations can be used to spread awareness about digital literacy.
+
 Module 2
 
 – Building A Digital Portfolio
 This module focuses on creating a professional digital presence. I created profiles on platforms like GitHub, LinkedIn, and Kaggle. These platforms allow students to showcase their work, connect with professionals, and build a strong portfolio for internships and future career opportunities.
+
 Module 3 
 
 – Programming Platforms & Collaborative Learning Platforms
 In this module, I explored coding practice platforms such as HackerRank and collaborative tools like Google Forms. Coding platforms help improve programming and problem-solving skills, while collaboration tools help students work together and collect information easily.
+
 Module 4 
 
 – Email Etiquette & The Basics Of Social Media Etiquette
 This module teaches the importance of professional communication online. I learned how to write formal emails with proper subject lines, greetings, and sign-offs. It also explains responsible behavior on social media and how students should maintain a positive digital identity.
+
 Module 5 
 
 – Awareness On Cyber Crime And Financial Fraudulent
