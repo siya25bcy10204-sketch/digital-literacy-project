@@ -46,11 +46,17 @@ This project helped me understand the importance of digital literacy in academic
 links
 
 Canva (infographics)- canva.com
+
 GitHub- github.com
+
 LinkedIn- linkedin.com
+
 Kaggle -kaggle.com
+
 HackerRank- hackerrank.com
+
 Google Forms- forms.google.com
+
 Cyber Crime Portal- cybercrime.gov.in
 
 
