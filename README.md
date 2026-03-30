@@ -8,8 +8,11 @@ The purpose of this project is to develop essential digital skills required for 
 Student Information
 
 Name: Siya Dubey
+
 Registration Number: 25BCY10204
+
 Branch: B.Tech Cyber Security and Digital Forensics
+
 Year: 1st Year
 
 Module Summaries
