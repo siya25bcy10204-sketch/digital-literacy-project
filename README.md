@@ -1,5 +1,6 @@
 # digital-literacy-project
 #Project Overview
+
 This repository contains my Digital Literacy Project for the course CSE0001 – Digital Literacy.
 The purpose of this project is to develop essential digital skills required for students in the modern digital world. Through this project, I explored topics such as digital awareness, professional online presence, coding platforms, email communication etiquette, and cybercrime awareness.Digital literacy refers to the ability to use digital technologies, the internet, and online tools effectively, safely, and responsibly.The project is divided into five tasks based on the course modules. Each task focuses on a specific aspect of digital literacy and helps students understand how to use digital tools responsibly, communicate professionally online, and stay safe from cyber threats.
 
