@@ -43,7 +43,7 @@ Module 5
 This module focuses on cyber safety and online security. It explains common cybercrimes such as phishing, online payment fraud, and identity theft. Students learn how to recognize these threats and follow safe online practices to protect their personal and financial information.
 This project helped me understand the importance of digital literacy in academic and professional environments. It improved my knowledge of digital tools, online communication, and cybersecurity awareness, which will help me in my future studies and career.
 
-links
+REFERENCES
 
 Canva (infographics)- canva.com
 
@@ -56,6 +56,12 @@ Kaggle -kaggle.com
 HackerRank- hackerrank.com
 
 Google Forms- forms.google.com
+
+LINKS
+
+GITHUB REPOSITORY LINK
+
+https://github.com/siya25bcy10204-sketch/digital-literacy-project
 
 Cyber Crime Portal- cybercrime.gov.in
 
