@@ -1,16 +1,16 @@
-# digital-literacy-project
-#Project Overview
+digital-literacy-project
+Project Overview
 
 This repository contains my Digital Literacy Project for the course CSE0001 – Digital Literacy.
 The purpose of this project is to develop essential digital skills required for students in the modern digital world. Through this project, I explored topics such as digital awareness, professional online presence, coding platforms, email communication etiquette, and cybercrime awareness.Digital literacy refers to the ability to use digital technologies, the internet, and online tools effectively, safely, and responsibly.The project is divided into five tasks based on the course modules. Each task focuses on a specific aspect of digital literacy and helps students understand how to use digital tools responsibly, communicate professionally online, and stay safe from cyber threats.
 
-#Student Information
+Student Information
 Name: Siya Dubey
 Registration Number: 25BCY10204
 Branch: B.Tech Cyber Security and Digital Forensics
 Year: 1st Year
 
-#Module Summaries
+Module Summaries
 Module 1 – Hands On Training On Presentation Software
 In this module, We learned how to use presentation tools to create visually appealing slides and infographics. Tools like Canva and presentation software help students explain ideas clearly using images, icons, and structured information. This module helped me understand how digital presentations can be used to spread awareness about digital literacy.
 Module 2 – Building A Digital Portfolio
